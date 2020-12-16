@@ -90,5 +90,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 por <a href="https://www.linkedin.com/in/guilherme-orcezi" target="_blank">Guilherme Orcezi</a>
+    Feito por <a href="https://www.linkedin.com/in/chemengatti" target="_blank">Cesar Menegatti</a>
 </h4>
